@@ -299,7 +299,7 @@ if __name__ == '__main__':
         link = LinkedList()
         print('Success')
     except:
-        print('There is a problem with the initialization of the Dynamic Array')
+        print('There is a problem with the initialization of the Linked List')
 
     print('\n\n\nTesting addFirst, addLast, and add()')
     print('-------------------------------------------')
